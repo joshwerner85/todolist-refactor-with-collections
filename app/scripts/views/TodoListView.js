@@ -1,6 +1,7 @@
 import $ from 'jquery';
 import Backbone from 'backbone';
 import TodoItemView from './TodoItemView';
+
 const TodoListView = Backbone.View.extend({
 	tagName: 'section',
 	events: {

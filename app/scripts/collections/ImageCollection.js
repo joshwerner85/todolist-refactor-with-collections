@@ -8,3 +8,4 @@ const ImageCollection = Backbone.Collection.extend({
 
 export default ImageCollection;
 	
+ 
