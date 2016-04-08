@@ -5,7 +5,7 @@ const ImageModel = Backbone.Model.extend({
 		src: 'https://upload.wikimedia.org/wikipedia/commons/4/47/Comic_image_missing.png',
 		caption: 'No image available'
 	},
-	urlRoot: 'http://small-tiyfe.herokuapp.com/collections/polar-bears',
+	urlRoot: 'http://small-tiyfe.herokuapp.com/collections/postArnold',
 	idAttribute: '_id'
 });
 
